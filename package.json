@@ -1,0 +1,19 @@
+{
+  "name": "image-search-telegram-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alexanderomanov/image-search-telegram-bot.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alexanderomanov/image-search-telegram-bot/issues"
+  },
+  "homepage": "https://github.com/alexanderomanov/image-search-telegram-bot#readme"
+}
